@@ -1,1 +1,1 @@
-import ruijiedemo
+import free as ruijiedemo
